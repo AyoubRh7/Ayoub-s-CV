@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif; 
+    color: #40514E;
+}
+.footer-link{
+    margin: 0 30px 100px 30px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+.bottom-container>p{
+    margin-top: 30px;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+.btn{
+    background-color: #11999E;
+    padding: 10px 14px 10px 14px;
+    border-radius: 12%;
+    color: #EAF6F6;
+    text-decoration: none;
+    box-shadow: 2px 2px 2px 1px rgb(197, 190, 190);
+}
+.contact-me{
+    padding-bottom:65px;
+
+}
+.contact-me>*{
+    margin: 50px auto 50px auto;
+}
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color:#66BFBF;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color:#66BFBF;
+    padding-bottom: 10px;
+}
+hr{
+    border-width: 6px;
+    border-style: dotted none none;
+    border-color: #EAF6F6;
+    width: 6%;
+    margin: 80px auto 80px auto;
+    
+}
+a{
+    color:#11999E ;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+.sous{
+    font-weight:normal;
+    line-height: 2;
+}
+.top_container{
+    background-color: #efd9d1;
+    padding-top: 100px;
+    position: relative;
+}
+.middle-container{
+margin-top: 100px;
+margin-bottom: 35px;
+}
+.bottom-container{
+background-color:#66BFBF ;
+padding-top: 50px;
+padding-bottom: 35px;
+}
+.cloud1{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+.cloud2{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+.msg{
+    width: 40%;
+    text-align: center;
+    line-height: 2;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.webph{
+width: 23%;
+border-radius: 50%;
+float: left;
+margin-right: 30px;
+}
+.vidph{
+width: 22%;
+border-radius: 50%;
+float: right;
+margin-left: 30px;
+
+}
+.profileph{
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px 2px grey;
+}
